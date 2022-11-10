@@ -11,7 +11,7 @@
       href="assets/images/favicon.svg"
       type="image/x-icon"
     />
-    <title>Mj Publisher | Mj Publisher ERP System</title>
+    <title>Mj OfficeM | Mj OfficeM ERP System</title>
 
     <!-- ========== All CSS files linkup ========= -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
@@ -52,7 +52,7 @@
             </a>
             <ul id="ddmenu_1" class="collapse show dropdown-nav">
               <li>
-                <a href="index.jsp" class="active"> Book </a>
+                <a href="index.jsp" class="active"> OfficeM </a>
               </li>
             </ul>
           </li>
